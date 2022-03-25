@@ -25,8 +25,6 @@
 
 
 
-° 🎓 
-
 <div>
 <hr>
 <a href="https://github.com/AnaBeatrizBBrito">
