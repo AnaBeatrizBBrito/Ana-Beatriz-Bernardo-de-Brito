@@ -29,7 +29,7 @@
 <hr>
 <a href="https://github.com/AnaBeatrizBBrito">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anabeatrizbbrito&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professorobama&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatrizBBrito&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 <img height="250em" width="530em" src = "https://github-readme-stats.vercel.app/api/wakatime?username=anabeatrizbbrito&layout=compact&hide_title=true&hide_border=true&count_private=true&theme=vision-friendly-dark">
 <hr>
 </div>
